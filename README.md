@@ -18,5 +18,8 @@ Variable-width font
 Fixed-width font
   - Lucidity Mono Regular
 
-#Latest PR
+# Latest PR
 https://github.com/SerenityOS/serenity/pull/13257
+
+# Updated info on SerenityOS fonts
+https://fonts.serenityos.net/
