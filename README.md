@@ -2,18 +2,14 @@
 # SerenityOS Fonts (Official)
 
 Variable-width fonts
-  - Satori Bold    [PR](https://github.com/SerenityOS/serenity/pull/13056)
-  - Satori Regular [PR](https://github.com/SerenityOS/serenity/pull/13056)
+  - Satori Bold    ~~[merged](https://github.com/SerenityOS/serenity/pull/13056)~~
+  - Satori Regular ~~[merged](https://github.com/SerenityOS/serenity/pull/13056)~~
+  - Lucidity Regular ~~[merged](https://github.com/SerenityOS/serenity/pull/13305)~~
 
 Fixed-width fonts
-  - Ataraxia Light      [PR](https://github.com/SerenityOS/serenity/pull/13087)
-  - Satori Mono Bold    [PR]( https://github.com/SerenityOS/serenity/pull/13066)
-  - Satori Mono Regular [PR]( https://github.com/SerenityOS/serenity/pull/13066)
-
-# SerenityOS Font (Unofficial)
-
-Variable-width font
-  - Lucidity Regular [PR](https://github.com/SerenityOS/serenity/pull/13305)
+  - Ataraxia Light      ~~[merged](https://github.com/SerenityOS/serenity/pull/13087)~~
+  - Satori Mono Bold    ~~[merged]( https://github.com/SerenityOS/serenity/pull/13066)~~
+  - Satori Mono Regular ~~[merged]( https://github.com/SerenityOS/serenity/pull/13066)~~
 
 # Latest Font Maintenance PR
 - [PR](https://github.com/SerenityOS/serenity/pull/13442)
