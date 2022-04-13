@@ -11,8 +11,9 @@ Fixed-width fonts
   - Satori Mono Bold    ~~[merged]( https://github.com/SerenityOS/serenity/pull/13066)~~
   - Satori Mono Regular ~~[merged]( https://github.com/SerenityOS/serenity/pull/13066)~~
 
-# Latest Font Maintenance PR
+# Latest Font Maintenance PRs
 - ~~[merged](https://github.com/SerenityOS/serenity/pull/13599)~~
+- ~~[merged](https://github.com/SerenityOS/serenity/pull/13570)~~
 - ~~[merged](https://github.com/SerenityOS/serenity/pull/13546)~~
 - ~~[merged](https://github.com/SerenityOS/serenity/pull/13519)~~
 - ~~[merged](https://github.com/SerenityOS/serenity/pull/13511)~~
