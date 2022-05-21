@@ -1,5 +1,9 @@
-## serenityos-fonts
-# SerenityOS Fonts (Official)
+# serenityos-fonts
+
+## Try the online fonts demo of all fonts in this repo
+[Online Fonts Demo](https://djwisdom.github.io/font-family)
+
+## Official Fonts
 
 Variable-width fonts
   - Satori Bold    ~~[merged](https://github.com/SerenityOS/serenity/pull/13056)~~
@@ -11,7 +15,18 @@ Fixed-width fonts
   - Satori Mono Bold    ~~[merged]( https://github.com/SerenityOS/serenity/pull/13066)~~
   - Satori Mono Regular ~~[merged]( https://github.com/SerenityOS/serenity/pull/13066)~~
 
-# Latest Font Maintenance PRs
+## Fonts Unofficial
+
+Fixed-width fonts
+  - Sangfroid Regular
+  - Sangfroid Bold
+  - Sobriety Regular
+  - Sobriety Bold
+  - Stharia Regular
+  - Stharia Bold
+
+## Latest Font Maintenance PRs
+- [14063](https://github.com/SerenityOS/serenity/pull/14063)
 - ~~[merged](https://github.com/SerenityOS/serenity/pull/13599)~~
 - ~~[merged](https://github.com/SerenityOS/serenity/pull/13570)~~
 - ~~[merged](https://github.com/SerenityOS/serenity/pull/13546)~~
@@ -28,5 +43,5 @@ Fixed-width fonts
 - ~~[merged](https://github.com/SerenityOS/serenity/pull/13330)~~
 - ~~[merged](https://github.com/SerenityOS/serenity/pull/13257)~~
 
-# Updated info on SerenityOS fonts
+## Updated info on SerenityOS fonts
 https://fonts.serenityos.net/
