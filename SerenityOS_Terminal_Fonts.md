@@ -23,14 +23,17 @@
 ![](terminal-fonts/LizaRegular10.png)
 
 ![Unofficial](terminal-fonts/LucidityMonoRegular10.png)
+Update: Theming repo hosted
 
 ![Unofficial](terminal-fonts/SangfroidRegular10.png)
+Update: Theming repo hosted
 
 ![](terminal-fonts/SatoriMonoBold10.png)
 
 ![](terminal-fonts/SatoriMonoRegular10.png)
 
 ![Unofficial](terminal-fonts/SobrietyRegular10.png)
+Update: Theming repo hosted
 
 ![](terminal-fonts/SourceBold10.png)
 
@@ -39,3 +42,4 @@
 ![](terminal-fonts/SourceRegular10.png)
 
 ![Unofficial](terminal-fonts/SthariaRegular10.png)
+Update: Theming repo hosted
